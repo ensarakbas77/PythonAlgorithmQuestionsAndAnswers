@@ -13,3 +13,13 @@
 
 `practices.ipynb` dosyası içerisinde de bazı algoritmalar ve onların çözümleri yer almaktadır.
 
+### Kurulum
+
+Bu projeyi kendi bilgisayarınıza klonlamak için aşağıdaki komutları kullanabilirsiniz:
+
+```bash
+git clone https://github.com/ensarakbas77/PythonAlgorithmQuestionsAndAnswers.git
+cd PythonAlgorithmQuestionsAndAnswers
+```
+
+Projeyi klonladıktan sonra, isterseniz kendi geliştirmelerinizi yapabilir veya içindeki Python dosyalarını çalıştırabilirsiniz.
