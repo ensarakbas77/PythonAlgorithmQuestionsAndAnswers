@@ -8,10 +8,12 @@
 **"Pangram Detection" (Pangram Tespiti)** ---> `example_04.py` <br>
 **"Reverse Words" (Kelimeyi Ters Çevir)** ---> `example_05.py` <br>
 **"Armstrong Numbers" (Armstrong Sayı Tespiti)** ---> `example_06.py` <br>
+**"Find The Parity Outlier" (Parite Aykırı Değerini Bulun)** ---> `example_07.py` <br>
+**"Tribonacci Sequence" (Tribonacci Serisi)** ---> `example_08.py` <br>
 
 ### Diğer Algoritmalar ve Cevapları
 
-`practices.ipynb` dosyası içerisinde de bazı algoritmalar ve onların çözümleri yer almaktadır.
+`Algorithms.ipynb` ve `practices.ipynb` dosyası içerisinde de bazı algoritmalar ve onların çözümleri yer almaktadır.
 
 ### Kurulum
 
